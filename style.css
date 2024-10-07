@@ -1,5 +1,5 @@
 .bg-gradient{
     height: 100%;
     width: 100%;
-    background-image: -moz-linear-gradient(red,green);
+    background-image: -moz-linear-gradient(45deg,red,green);
 }
