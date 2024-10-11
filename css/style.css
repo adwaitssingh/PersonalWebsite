@@ -3,6 +3,5 @@ body{
     background-image: linear-gradient(135deg,#02386E,#000b18);
     font-family: 'Archivo Black' ,sans-serif;
     background-size: 100%;
-    background-repeat: no-repeat;
     min-height: 100vh;
 } 
